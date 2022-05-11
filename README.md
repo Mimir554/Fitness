@@ -1,2 +1,1 @@
-New web site from scratch 
-Fitness web site
+Web site fitness
